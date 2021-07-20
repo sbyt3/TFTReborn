@@ -1,4 +1,924 @@
 {
+  "350a6a468b93b1c239a159141ed6e320": {
+    "Files": {
+      "champions/TFT5_Aatrox.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Aatrox.png",
+        "MD5": "b7d615f258121d73c1243d5f6609ed91"
+      },
+      "champions/TFT5_Aphelios.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Aphelios.png",
+        "MD5": "cd858105faa2aefff2db530b927d776c"
+      },
+      "champions/TFT5_Ashe.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Ashe.png",
+        "MD5": "78c3f5359ce889df5348b4fa7df008d6"
+      },
+      "champions/TFT5_Brand.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Brand.png",
+        "MD5": "5254462a8ec0289d77466acea52ab96a"
+      },
+      "champions/TFT5_Darius.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Darius.png",
+        "MD5": "4cc52584d12be973191feca34b71f888"
+      },
+      "champions/TFT5_Diana.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Diana.png",
+        "MD5": "caf363c536a090997bd1e6b05b769cd4"
+      },
+      "champions/TFT5_Draven.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Draven.png",
+        "MD5": "af276419377d6173a7c476dec0bc0e4a"
+      },
+      "champions/TFT5_Garen.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Garen.png",
+        "MD5": "4a2abc87ddb3fd35d9e5539e12686c02"
+      },
+      "champions/TFT5_Gragas.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Gragas.png",
+        "MD5": "24595ab3b9f8dbdbe18d906fa467c948"
+      },
+      "champions/TFT5_Hecarim.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Hecarim.png",
+        "MD5": "1ce9153795ff022fb3e0d0f60092537b"
+      },
+      "champions/TFT5_Heimerdinger.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Heimerdinger.png",
+        "MD5": "1b8272f8788c321e2870dd3b3771b073"
+      },
+      "champions/TFT5_Ivern.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Ivern.png",
+        "MD5": "35bfb0bdc2a5a78781e4e32c976a4db6"
+      },
+      "champions/TFT5_Jax.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Jax.png",
+        "MD5": "8e9f801cfa8cbc123c6d353d47a3361d"
+      },
+      "champions/TFT5_Kalista.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Kalista.png",
+        "MD5": "a99bb18928248618dc2398c1b0b5e1bc"
+      },
+      "champions/TFT5_Karma.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Karma.png",
+        "MD5": "8adaf06fabeb7bbe2aedeecc17a8def1"
+      },
+      "champions/TFT5_Katarina.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Katarina.png",
+        "MD5": "13e0584cc872603d8824d286c79b386e"
+      },
+      "champions/TFT5_Kayle.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Kayle.png",
+        "MD5": "2cfc3d7ef5e1bc354c29a7d13357257e"
+      },
+      "champions/TFT5_Kennen.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Kennen.png",
+        "MD5": "79b0e023d86ccd4e3ea762e750f39134"
+      },
+      "champions/TFT5_Khazix.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Khazix.png",
+        "MD5": "60f52770e9e529cb0671e829a0665756"
+      },
+      "champions/TFT5_Kindred.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Kindred.png",
+        "MD5": "ff445ce61474643e05c32a116edee9e1"
+      },
+      "champions/TFT5_Kled.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Kled.png",
+        "MD5": "b013decee7c42c9cb22c4e76076bbe69"
+      },
+      "champions/TFT5_LeBlanc.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_LeBlanc.png",
+        "MD5": "5b50fdd9c9053322c34215f5b3f772e6"
+      },
+      "champions/TFT5_LeeSin.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_LeeSin.png",
+        "MD5": "c81f64281a1e6dd2b65a4a399bf9a436"
+      },
+      "champions/TFT5_Leona.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Leona.png",
+        "MD5": "f395f0a239ee8c24a51d17de591729b3"
+      },
+      "champions/TFT5_Lissandra.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Lissandra.png",
+        "MD5": "f83c2491935cb83be46e0308a018b7b4"
+      },
+      "champions/TFT5_Lulu.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Lulu.png",
+        "MD5": "4c93011a63bb1eb6f6f9c1b700e99395"
+      },
+      "champions/TFT5_Lux.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Lux.png",
+        "MD5": "6ce1e8d67e1e0a02c33ee23daab46cdf"
+      },
+      "champions/TFT5_Mordekaiser.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Mordekaiser.png",
+        "MD5": "53c238a1e47e9ef8ac6379dd34c7b6a5"
+      },
+      "champions/TFT5_Morgana.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Morgana.png",
+        "MD5": "7f5195125411f3c49848e15890334d7b"
+      },
+      "champions/TFT5_Nautilus.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Nautilus.png",
+        "MD5": "5988c773c4620d1204dc0812a2e9a645"
+      },
+      "champions/TFT5_Nidalee.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Nidalee.png",
+        "MD5": "8f49201694af46a414dc01f8457ae29f"
+      },
+      "champions/TFT5_Nocturne.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Nocturne.png",
+        "MD5": "d1cc4c3ff4b899531652b7337c38c8fd"
+      },
+      "champions/TFT5_Nunu.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Nunu.png",
+        "MD5": "e2c69ac6cfc267af4928ba9f6ea85c7c"
+      },
+      "champions/TFT5_Pantheon.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Pantheon.png",
+        "MD5": "84a62c97b55a9a0695f7256950b0b7c6"
+      },
+      "champions/TFT5_Poppy.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Poppy.png",
+        "MD5": "70f8f39f3de7efad6e4559d899fed692"
+      },
+      "champions/TFT5_Rell.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Rell.png",
+        "MD5": "f375c06a53ff0367ff2ef4b647d49afd"
+      },
+      "champions/TFT5_Riven.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Riven.png",
+        "MD5": "47ccf9ddd950fce1f955221ebe27d855"
+      },
+      "champions/TFT5_Ryze.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Ryze.png",
+        "MD5": "99a419e5385ac185c2cf227f915ad8b3"
+      },
+      "champions/TFT5_Sejuani.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Sejuani.png",
+        "MD5": "2abb7ce101c5408fe71f8b7c10c8c6d8"
+      },
+      "champions/TFT5_Sett.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Sett.png",
+        "MD5": "bde3155663dc622c2fba2045fd320e04"
+      },
+      "champions/TFT5_Soraka.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Soraka.png",
+        "MD5": "cdd8a2fcd9d35b938d703a4d67d5804a"
+      },
+      "champions/TFT5_Syndra.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Syndra.png",
+        "MD5": "3f3154b5b37ab6bad8ba145849cd604c"
+      },
+      "champions/TFT5_Taric.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Taric.png",
+        "MD5": "784df8440aa1bd9ace52a53c9102726e"
+      },
+      "champions/TFT5_Teemo.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Teemo.png",
+        "MD5": "7348b72686787ec537cc8b489ef4732d"
+      },
+      "champions/TFT5_Thresh.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Thresh.png",
+        "MD5": "bee73ec798954bf46c6742c1e565f69c"
+      },
+      "champions/TFT5_Trundle.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Trundle.png",
+        "MD5": "804e447627f39ff95498f569a9d44568"
+      },
+      "champions/TFT5_Udyr.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Udyr.png",
+        "MD5": "0d06e29bdc3a9b0db9bb369e3288576c"
+      },
+      "champions/TFT5_Varus.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Varus.png",
+        "MD5": "5667fad9bcc624ea08cec080d96e4d40"
+      },
+      "champions/TFT5_Vayne.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Vayne.png",
+        "MD5": "191c7f93bf12f3c7280c200a4d7a78a9"
+      },
+      "champions/TFT5_Velkoz.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Velkoz.png",
+        "MD5": "e92600bc663c774341aabce40807a5ed"
+      },
+      "champions/TFT5_Viego.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Viego.png",
+        "MD5": "174ebde029f190b0c220f9351cb7b7a1"
+      },
+      "champions/TFT5_Viktor.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Viktor.png",
+        "MD5": "d0f7346f558a4a596612c0b02fc52a7e"
+      },
+      "champions/TFT5_Vladimir.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Vladimir.png",
+        "MD5": "96e6c8c8190da4dbfb95c368ada0c0ab"
+      },
+      "champions/TFT5_Volibear.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Volibear.png",
+        "MD5": "c7f944bc311978cf11b5197c91d72871"
+      },
+      "champions/TFT5_Warwick.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Warwick.png",
+        "MD5": "d9ee01c9bf36102605094d99a02b5e84"
+      },
+      "champions/TFT5_Yasuo.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Yasuo.png",
+        "MD5": "0c780dc7620faec455f00ea15fce2e43"
+      },
+      "champions/TFT5_Ziggs.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Ziggs.png",
+        "MD5": "e4af68106b960b3d52c68227411cb945"
+      },
+      "champions/TFT5_Zyra.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT5_Zyra.png",
+        "MD5": "32a53f148cb1e940d96148eb3f799e0e"
+      },
+      "champions/TFT_TrainingDummy.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions/TFT_TrainingDummy.png",
+        "MD5": "9fa297914bf96b39e3b6a210de8afd8e"
+      },
+      "items/01.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/01.png",
+        "MD5": "63e1c0a378de79fcb549b045b412fee0"
+      },
+      "items/02.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/02.png",
+        "MD5": "2b6a55665163333e1d219622f9e55929"
+      },
+      "items/03.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/03.png",
+        "MD5": "0dae9a1da0824460713feff218560b9e"
+      },
+      "items/04.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/04.png",
+        "MD5": "65fcabaa291d0931327ac50b4eea449f"
+      },
+      "items/05.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/05.png",
+        "MD5": "e7177b5af3e00dccb23bedcccbdc24ea"
+      },
+      "items/06.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/06.png",
+        "MD5": "e67299e6ed63316e809a9814cf953184"
+      },
+      "items/07.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/07.png",
+        "MD5": "0daf25a5f51082700254c6d4aebd8e02"
+      },
+      "items/08.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/08.png",
+        "MD5": "ffcd80cda1f9441d4b5bfd28e4921a6e"
+      },
+      "items/09.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/09.png",
+        "MD5": "0a612d328f26b3b47539b8b5b6554b20"
+      },
+      "items/1001.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1001.png",
+        "MD5": "ade5fc6c329be380ed5e684a67e5b255"
+      },
+      "items/1002.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1002.png",
+        "MD5": "74e0d6a9b49eb8050615a98e5d153e3c"
+      },
+      "items/1003.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1003.png",
+        "MD5": "e7b77f1703f9d382676fd9e7a5f13312"
+      },
+      "items/1004.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1004.png",
+        "MD5": "c05a49a93139f8e6ad3747a0a73d74e7"
+      },
+      "items/1005.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1005.png",
+        "MD5": "6ead0742609e7cdd50d718ce9a7ba427"
+      },
+      "items/1006.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1006.png",
+        "MD5": "0263fe26ecb7e4b1e24801f5edc03fab"
+      },
+      "items/1007.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1007.png",
+        "MD5": "07f96b285c553d36d9bc790107cde3c0"
+      },
+      "items/1008.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1008.png",
+        "MD5": "89ba76a41fd62131d5681e44efa8864f"
+      },
+      "items/1009.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1009.png",
+        "MD5": "40699c32dcbe38929749598b05aa9a6f"
+      },
+      "items/1011.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1011.png",
+        "MD5": "7db9c3bda90b3f28a9ab1a309185a6bb"
+      },
+      "items/1012.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1012.png",
+        "MD5": "6db0cfd20ecbf6985bae9d0757f70688"
+      },
+      "items/1013.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1013.png",
+        "MD5": "c34352e06a349f654c30b942267a69ff"
+      },
+      "items/1014.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1014.png",
+        "MD5": "2c37c69ee0f1fdfaa1dd4e2aa6c98ae8"
+      },
+      "items/1015.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1015.png",
+        "MD5": "7c37b66032e46b966909ff6d7d58460a"
+      },
+      "items/1016.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1016.png",
+        "MD5": "7db6b1710ae6d72fd9e02a0a1daed2db"
+      },
+      "items/1017.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1017.png",
+        "MD5": "f3d0c4cccb7243ca4ef999e8da815901"
+      },
+      "items/1019.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1019.png",
+        "MD5": "e52de22953cf82e648a6d892e11b1904"
+      },
+      "items/1022.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1022.png",
+        "MD5": "83b378912e079a3f7e3faa4ec634ac77"
+      },
+      "items/1023.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1023.png",
+        "MD5": "97a99e57e992cbae9219220a446c56f5"
+      },
+      "items/1024.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1024.png",
+        "MD5": "b3647da4e1696c22f515bc543cb5fa5b"
+      },
+      "items/1025.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1025.png",
+        "MD5": "ed42abf72bdb4e12d012f7a799a8672b"
+      },
+      "items/1026.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1026.png",
+        "MD5": "9dd7ed47469814f13da78fcaf723a3a4"
+      },
+      "items/1027.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1027.png",
+        "MD5": "2541042a7b6f41ebd9c67f55fefada67"
+      },
+      "items/1029.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1029.png",
+        "MD5": "7b4477b94b269ad85d7ad544a942a0d7"
+      },
+      "items/1033.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1033.png",
+        "MD5": "6c3cdc07b7f7f036738fc30337982a28"
+      },
+      "items/1034.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1034.png",
+        "MD5": "cbae4929d8c1b52facc4ac4738b4d239"
+      },
+      "items/1035.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1035.png",
+        "MD5": "a4ce0d20ff61048d7ab27f2713f4e08e"
+      },
+      "items/1036.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1036.png",
+        "MD5": "0b57d28e12e04e77e54f0a0f981e0e15"
+      },
+      "items/1037.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1037.png",
+        "MD5": "76a2e3ecb0086b5ca2959d4bdc6256c6"
+      },
+      "items/1039.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1039.png",
+        "MD5": "988196283537f8b087af0844404c8575"
+      },
+      "items/1044.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1044.png",
+        "MD5": "291b16538209a68bd2e5f428513861da"
+      },
+      "items/1045.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1045.png",
+        "MD5": "13683c126a2f96708deb4d9d0aca8f12"
+      },
+      "items/1046.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1046.png",
+        "MD5": "04b8102de5d3d1f9976fbdfcb020b7ac"
+      },
+      "items/1047.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1047.png",
+        "MD5": "68aa71876192a803c6541f649149bce3"
+      },
+      "items/1049.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1049.png",
+        "MD5": "003055de59efcfec3e121ba9043e553f"
+      },
+      "items/1055.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1055.png",
+        "MD5": "9a9aad184fd1b962a01a5357cd66d561"
+      },
+      "items/1056.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1056.png",
+        "MD5": "b98e4cc5ff5062c616683043679348f7"
+      },
+      "items/1057.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1057.png",
+        "MD5": "8b97448f3a420a0320902e36a911f3ae"
+      },
+      "items/1059.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1059.png",
+        "MD5": "79b74be6d4c0f125997e070547846497"
+      },
+      "items/1066.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1066.png",
+        "MD5": "7ef019144ed143eaab501c667ba8d993"
+      },
+      "items/1067.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1067.png",
+        "MD5": "7c00826c455e90a405d896facd4a6e88"
+      },
+      "items/1069.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1069.png",
+        "MD5": "e7e879d3b395b1a507a91e4db2f29cc1"
+      },
+      "items/1077.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1077.png",
+        "MD5": "4c9fd48b27360b94cdcd58aa35f32d79"
+      },
+      "items/1079.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1079.png",
+        "MD5": "53393b2d74d6507a1258e877e765e533"
+      },
+      "items/1088.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1088.png",
+        "MD5": "86a9b8d769c6d18d7342134bc1dac255"
+      },
+      "items/1099.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1099.png",
+        "MD5": "b6ac7d1347d58c15b3c8e11338bc7373"
+      },
+      "items/11.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/11.png",
+        "MD5": "0b3d7110473cd22a57890197a4c63e3a"
+      },
+      "items/1118.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1118.png",
+        "MD5": "1ec3be677efb76289228e57ce16960ce"
+      },
+      "items/1128.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1128.png",
+        "MD5": "24ca77c0c7bfe9d642224e63b896de53"
+      },
+      "items/1138.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1138.png",
+        "MD5": "bd8b80d6c1fd95993dbf47515d1c4cc9"
+      },
+      "items/1148.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1148.png",
+        "MD5": "e17d60e40977152982bdfd48f3e9b10b"
+      },
+      "items/1158.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1158.png",
+        "MD5": "19b5cc7a22ebe9fb191fc8b8a885296f"
+      },
+      "items/1168.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1168.png",
+        "MD5": "b3da9715152f2e133b0f2b93a9cdb1f1"
+      },
+      "items/1178.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1178.png",
+        "MD5": "5bc51487193ca6238f1bfbbc4181defc"
+      },
+      "items/1189.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/1189.png",
+        "MD5": "0df23bc72da9c7639fcf5a49cb59580f"
+      },
+      "items/12.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/12.png",
+        "MD5": "931f070c4e1d90f646e55158421c868b"
+      },
+      "items/13.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/13.png",
+        "MD5": "39446a9366916cc676adaca06bdd17f2"
+      },
+      "items/14.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/14.png",
+        "MD5": "d749104f84660d05107421524c34c4e5"
+      },
+      "items/15.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/15.png",
+        "MD5": "cd5ebbbbb283501e2b37595d15ac0923"
+      },
+      "items/16.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/16.png",
+        "MD5": "24182458af8a052d06b17457efc67337"
+      },
+      "items/17.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/17.png",
+        "MD5": "a74fa42512d8548dbbccbebd40543d81"
+      },
+      "items/18.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/18.png",
+        "MD5": "90ad44f58ca56950dacace2d8ea9afd9"
+      },
+      "items/19.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/19.png",
+        "MD5": "1f96260db7886a34e13823ae9c50a9c4"
+      },
+      "items/22.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/22.png",
+        "MD5": "a449bcedaa34e42374acbe95069dec5b"
+      },
+      "items/23.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/23.png",
+        "MD5": "a20a407c7fb91df8d2be02eb5da187d1"
+      },
+      "items/24.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/24.png",
+        "MD5": "c3b1d155bcc56281a6fd40b8fc033eac"
+      },
+      "items/25.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/25.png",
+        "MD5": "d960782fafee8b044e591983920ed633"
+      },
+      "items/26.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/26.png",
+        "MD5": "bb28faa384cbb2ea1807aceb10a009f4"
+      },
+      "items/27.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/27.png",
+        "MD5": "8f5fe185bb07da4fb207b1ce9517f078"
+      },
+      "items/28.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/28.png",
+        "MD5": "b1756840a773213fa2d134a22ea59a31"
+      },
+      "items/29.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/29.png",
+        "MD5": "fb93ae017b68add839e8eb339e989fd8"
+      },
+      "items/33.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/33.png",
+        "MD5": "00442030fe06dbe29092c75f45cecf87"
+      },
+      "items/34.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/34.png",
+        "MD5": "28187e1bae4f0685e3a46c91ec99b38e"
+      },
+      "items/35.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/35.png",
+        "MD5": "6a70d49905f53e003fdacb57849341da"
+      },
+      "items/36.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/36.png",
+        "MD5": "521b59b00ad0c1e781e39ff5083a6cbf"
+      },
+      "items/37.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/37.png",
+        "MD5": "ec639a453d074152b153afd10fd6c772"
+      },
+      "items/38.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/38.png",
+        "MD5": "cc8248328877bd8d2688f9dcf2f5474f"
+      },
+      "items/39.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/39.png",
+        "MD5": "a98710a80589e2c38e938ec5a26b4961"
+      },
+      "items/44.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/44.png",
+        "MD5": "16d6c9e9c5194033abeb64258da90c9b"
+      },
+      "items/45.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/45.png",
+        "MD5": "2aba2b16e55dc95a552b113d3dd376d0"
+      },
+      "items/46.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/46.png",
+        "MD5": "b45cedfb05493ed947a23086f42c5b26"
+      },
+      "items/47.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/47.png",
+        "MD5": "de24cb1d51cd41d723ccf84de9bca78f"
+      },
+      "items/48.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/48.png",
+        "MD5": "81bc4df3a10843ac677cf7d6f91ee2ed"
+      },
+      "items/49.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/49.png",
+        "MD5": "bb2b2cb33c5f26c8495108efa723a385"
+      },
+      "items/55.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/55.png",
+        "MD5": "b744185accca88870ffbb2a30bb0d1b2"
+      },
+      "items/56.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/56.png",
+        "MD5": "908104ef4b4b26fddf61077d237e4bad"
+      },
+      "items/57.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/57.png",
+        "MD5": "5634270d1abac41dc20e10f30ad499f0"
+      },
+      "items/58.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/58.png",
+        "MD5": "8f3ef081e19db2ef41f79dea3ca7fae2"
+      },
+      "items/59.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/59.png",
+        "MD5": "45f36a641a934cf39dfb32dc28821aec"
+      },
+      "items/66.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/66.png",
+        "MD5": "2caf9b4605e8a265436d62bcb80032c5"
+      },
+      "items/67.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/67.png",
+        "MD5": "fa6095f97ef11da144bf6788519f980d"
+      },
+      "items/68.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/68.png",
+        "MD5": "b8a40350eb6c40ee7fdec37b4cee33aa"
+      },
+      "items/69.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/69.png",
+        "MD5": "bc8d6978428eccbebf0ed045dcb491f0"
+      },
+      "items/77.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/77.png",
+        "MD5": "8c3aebe2ff988035850624c088ffd047"
+      },
+      "items/78.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/78.png",
+        "MD5": "462fa4c22d9e9bebb47a44178916f6e7"
+      },
+      "items/79.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/79.png",
+        "MD5": "6e768f8398faaa6796aab752ad18fe3b"
+      },
+      "items/88.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/88.png",
+        "MD5": "0d93a565c64452ad3228581314c1cee0"
+      },
+      "items/89.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/89.png",
+        "MD5": "3c46afa207f153c8a1255bd74e7a03c9"
+      },
+      "items/99.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items/99.png",
+        "MD5": "e8d818a4b275070ecd7a18fc8e83f3e7"
+      },
+      "traits/abomination.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/abomination.png",
+        "MD5": "64130756b1c74d85a10042c14a0b1113"
+      },
+      "traits/abomination.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/abomination.svg",
+        "MD5": "b4aa4a51bb0115fa2ea157743acac612"
+      },
+      "traits/assassin.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/assassin.png",
+        "MD5": "28943f803c2c5191f76615d542a849dc"
+      },
+      "traits/assassin.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/assassin.svg",
+        "MD5": "cfd3b4a9724f512fe93126ce996d520b"
+      },
+      "traits/bg.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/bg.png",
+        "MD5": "57bed4989613e21f731891c6f7cdd3c6"
+      },
+      "traits/brawler.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/brawler.png",
+        "MD5": "2c5e75092dc6fd3851b9acd7022b5148"
+      },
+      "traits/brawler.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/brawler.svg",
+        "MD5": "9686fffcdcaf75ef8d25cb67d3e8e770"
+      },
+      "traits/caretaker.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/caretaker.png",
+        "MD5": "7d5ffe2d45dd705c9ef804d48cc4b45e"
+      },
+      "traits/caretaker.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/caretaker.svg",
+        "MD5": "0bc06d138f42fbc35245772806ad2aaa"
+      },
+      "traits/cavalier.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/cavalier.png",
+        "MD5": "a5227add0b580e1c54b5a8c554147af4"
+      },
+      "traits/cavalier.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/cavalier.svg",
+        "MD5": "4e837963ad847ce422b7003134ebc9f1"
+      },
+      "traits/coven.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/coven.png",
+        "MD5": "e57765ad1d855b486abc0b84dfc34786"
+      },
+      "traits/coven.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/coven.svg",
+        "MD5": "9407238bb93e3884c1ea123dfa5da9dc"
+      },
+      "traits/cruel.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/cruel.png",
+        "MD5": "c397972ed20835edf81b421932f56b2f"
+      },
+      "traits/cruel.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/cruel.svg",
+        "MD5": "e97ae3dc0e60484df2fea70bf0348fe0"
+      },
+      "traits/dawnbringer.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/dawnbringer.png",
+        "MD5": "ea957a4d0501696693a869be9b2324e0"
+      },
+      "traits/dawnbringer.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/dawnbringer.svg",
+        "MD5": "e22f66fc6415e2d10ec0a1cad1669736"
+      },
+      "traits/draconic.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/draconic.png",
+        "MD5": "b359d27d7dd750f33b1b64bebc6a3596"
+      },
+      "traits/draconic.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/draconic.svg",
+        "MD5": "afc4df5f4e115056dfc613e048a86b9e"
+      },
+      "traits/dragonslayer.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/dragonslayer.png",
+        "MD5": "b60f904ddc26fc081bdb973a5b6b7147"
+      },
+      "traits/dragonslayer.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/dragonslayer.svg",
+        "MD5": "cedcf645e478582428af7d24cf45b8c1"
+      },
+      "traits/eternal.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/eternal.png",
+        "MD5": "a253f6c9a80d3758693c8e1f5dca5d2d"
+      },
+      "traits/eternal.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/eternal.svg",
+        "MD5": "5746f27d6c501cec43b3692922197a5e"
+      },
+      "traits/forgotten.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/forgotten.png",
+        "MD5": "32fa26710155c86d9f1c6e60126e40d7"
+      },
+      "traits/forgotten.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/forgotten.svg",
+        "MD5": "fb537c2f919f487d457a55ec7e9cc2b3"
+      },
+      "traits/godkings.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/godkings.png",
+        "MD5": "661c99a071ef4ef9d13f39eddc45c307"
+      },
+      "traits/godkings.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/godkings.svg",
+        "MD5": "12c2ba131a44d7dad9a09c615da5ec56"
+      },
+      "traits/hellion.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/hellion.png",
+        "MD5": "2525a1be35c782b873d3434e85d8e904"
+      },
+      "traits/hellion.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/hellion.svg",
+        "MD5": "bca3adb3b57e8a6b26c97b3371550bb3"
+      },
+      "traits/invoker.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/invoker.png",
+        "MD5": "02851028bb34d9c44c1cd2d58a75661f"
+      },
+      "traits/invoker.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/invoker.svg",
+        "MD5": "029ac9d01105561d40fa382f853c249b"
+      },
+      "traits/ironclad.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/ironclad.png",
+        "MD5": "20bc324ef1fcb34763d4abafb9c4d609"
+      },
+      "traits/ironclad.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/ironclad.svg",
+        "MD5": "21f3109fc17fd90cac07a72af7287d35"
+      },
+      "traits/knight.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/knight.png",
+        "MD5": "73c72b6ae50f23ea5426ed292b70ac21"
+      },
+      "traits/knight.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/knight.svg",
+        "MD5": "3819604b168f6559f8e9bfc8177a2476"
+      },
+      "traits/legionnaire.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/legionnaire.png",
+        "MD5": "891eea01ec830be5133688e55bdafb21"
+      },
+      "traits/legionnaire.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/legionnaire.svg",
+        "MD5": "8a741adb62e7605aef557c8e2aa6399f"
+      },
+      "traits/mystic.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/mystic.png",
+        "MD5": "b88dcc87421342f0de5aff4fdf01ac5c"
+      },
+      "traits/mystic.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/mystic.svg",
+        "MD5": "0fb2ac41f9fe34b0d43a4d3697af85ba"
+      },
+      "traits/nightbringer.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/nightbringer.png",
+        "MD5": "bdf890b7f2cfd8a2b49c52d755448dc7"
+      },
+      "traits/nightbringer.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/nightbringer.svg",
+        "MD5": "3de004106b06894b62d0f060195a9501"
+      },
+      "traits/ranger.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/ranger.png",
+        "MD5": "09dea79aedff5ff10d07e9cd00e8c1f8"
+      },
+      "traits/ranger.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/ranger.svg",
+        "MD5": "407286c78c680100bf068d1234a12f0b"
+      },
+      "traits/redeemed.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/redeemed.png",
+        "MD5": "4bff4a6e3648bfec44bdfcad31cb0e93"
+      },
+      "traits/redeemed.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/redeemed.svg",
+        "MD5": "6c8f93123bd68693bb9009cf6fca0ed1"
+      },
+      "traits/renewer.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/renewer.png",
+        "MD5": "47c13d19eaa280bf9b4ec6b0fb3e281b"
+      },
+      "traits/renewer.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/renewer.svg",
+        "MD5": "6714beb21cd75d0d437b93949ef9089f"
+      },
+      "traits/revenant.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/revenant.png",
+        "MD5": "fff72dc33b7f5f6bce07b47278464c12"
+      },
+      "traits/revenant.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/revenant.svg",
+        "MD5": "53e7d77e1b1a80e7f5c4d1b3451cca19"
+      },
+      "traits/skirmisher.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/skirmisher.png",
+        "MD5": "9a7c14b58ce75f8ea3e7f0e52cd88ab1"
+      },
+      "traits/skirmisher.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/skirmisher.svg",
+        "MD5": "33aaae62c17a95f3be1ebd0cad68f79e"
+      },
+      "traits/spellweaver.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/spellweaver.png",
+        "MD5": "e3c84d6b43f90d2575abb3b55471cf1b"
+      },
+      "traits/spellweaver.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/spellweaver.svg",
+        "MD5": "01eb6088053593a0fd144ab85acac68f"
+      },
+      "traits/verdant.png": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/verdant.png",
+        "MD5": "d7be4c373f4bb03e500107ddf337ad53"
+      },
+      "traits/verdant.svg": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits/verdant.svg",
+        "MD5": "a7393c51480fec2268599fbc592bee34"
+      },
+      "champions.json": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/champions.json",
+        "MD5": "72467290774dbc98cbf436caa9c8f37a"
+      },
+      "fa400.ttf": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/fa400.ttf",
+        "MD5": "4b6a9b7c20913279a3ad3dd9c96e155b"
+      },
+      "fabrand.ttf": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/fabrand.ttf",
+        "MD5": "0fddee1cdea7325809a89084f38510cb"
+      },
+      "fasolid.ttf": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/fasolid.ttf",
+        "MD5": "dffd9504fcb1894620fa41c700172994"
+      },
+      "items.json": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/items.json",
+        "MD5": "a79769b31d566d1bc9572a5af00defb8"
+      },
+      "TFTReborn.dll": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/TFTReborn.dll",
+        "MD5": "851f95ee6d9a05145766aee37ad664ff"
+      },
+      "traits.json": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/350a6a468b93b1c239a159141ed6e320/traits.json",
+        "MD5": "2b4f92fb1fc2fe4e1beae1dd61be3b1b"
+      }
+    }
+  },
   "724a6edb8770184b2eacd7a0e40f2f4a": {
     "Files": {
       "champions/TFT5_Aatrox.png": {
