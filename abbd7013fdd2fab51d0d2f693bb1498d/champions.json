@@ -541,5 +541,113 @@
       "Set5_Draconic",
       "Set5_Spellweaver"
     ]
+  },
+  {
+    "name": "Galio",
+    "championId": "TFT5_Galio",
+    "cost": 4,
+    "traits": [
+      "Set5_Draconic",
+      "Set5_Spellweaver"
+    ]
+  },
+  {
+    "name": "Gwen",
+    "championId": "TFT5_Gwen",
+    "cost": 5,
+    "traits": [
+      "Set5_Draconic",
+      "Set5_Spellweaver"
+    ]
+  },
+  {
+    "name": "Fiddlesticks",
+    "championId": "TFT5_Fiddlesticks",
+    "cost": 4,
+    "traits": [
+      "Set5_Draconic",
+      "Set5_Spellweaver"
+    ]
+  },
+  {
+    "name": "Lucian",
+    "championId": "TFT5_Lucian",
+    "cost": 3,
+    "traits": [
+      "Set5_Draconic",
+      "Set5_Spellweaver"
+    ]
+  },
+  {
+    "name": "MissFortune",
+    "championId": "TFT5_Missfortune",
+    "cost": 3,
+    "traits": [
+      "Set5_Draconic",
+      "Set5_Spellweaver"
+    ]
+  },
+  {
+    "name": "Rakan",
+    "championId": "TFT5_Rakan",
+    "cost": 3,
+    "traits": [
+      "Set5_Draconic",
+      "Set5_Spellweaver"
+    ]
+  },
+  {
+    "name": "Irelia",
+    "championId": "TFT5_Irelia",
+    "cost": 2,
+    "traits": [
+      "Set5_Draconic",
+      "Set5_Spellweaver"
+    ]
+  },
+  {
+    "name": "Pyke",
+    "championId": "TFT5_Pyke",
+    "cost": 2,
+    "traits": [
+      "Set5_Draconic",
+      "Set5_Spellweaver"
+    ]
+  },
+  {
+    "name": "Tristana",
+    "championId": "TFT5_Tristana",
+    "cost": 2,
+    "traits": [
+      "Set5_Draconic",
+      "Set5_Spellweaver"
+    ]
+  },
+  {
+    "name": "Olaf",
+    "championId": "TFT5_Olaf",
+    "cost": 1,
+    "traits": [
+      "Set5_Draconic",
+      "Set5_Spellweaver"
+    ]
+  },
+  {
+    "name": "Senna",
+    "championId": "TFT5_Senna",
+    "cost": 1,
+    "traits": [
+      "Set5_Draconic",
+      "Set5_Spellweaver"
+    ]
+  },
+  {
+    "name": "Akshan",
+    "championId": "TFT5_Akshan",
+    "cost": 5,
+    "traits": [
+      "Set5_Draconic",
+      "Set5_Spellweaver"
+    ]
   }
 ]
