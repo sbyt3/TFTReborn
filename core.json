@@ -919,6 +919,30 @@
       }
     }
   },
+  "668be0df8c160b38cb8c8eb2fd869a5b": {
+    "Files": {
+      "en_us.json": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/668be0df8c160b38cb8c8eb2fd869a5b/en_us.json",
+        "MD5": "a668fd2f8908021b517be23e51b6c76d"
+      },
+      "fa400.ttf": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/668be0df8c160b38cb8c8eb2fd869a5b/fa400.ttf",
+        "MD5": "4b6a9b7c20913279a3ad3dd9c96e155b"
+      },
+      "fabrand.ttf": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/668be0df8c160b38cb8c8eb2fd869a5b/fabrand.ttf",
+        "MD5": "0fddee1cdea7325809a89084f38510cb"
+      },
+      "fasolid.ttf": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/668be0df8c160b38cb8c8eb2fd869a5b/fasolid.ttf",
+        "MD5": "dffd9504fcb1894620fa41c700172994"
+      },
+      "TFTReborn.dll": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/668be0df8c160b38cb8c8eb2fd869a5b/TFTReborn.dll",
+        "MD5": "ff83f95b9e070bd4af697c063549c836"
+      }
+    }
+  },
   "6d61a30b3ec3df3b3102aa699f5429a0": {
     "Files": {
       "en_us.json": {
