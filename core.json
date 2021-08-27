@@ -1,4 +1,28 @@
 {
+  "2bef059eced167ceab6e6d17d627e294": {
+    "Files": {
+      "en_us.json": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/2bef059eced167ceab6e6d17d627e294/en_us.json",
+        "MD5": "a668fd2f8908021b517be23e51b6c76d"
+      },
+      "fa400.ttf": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/2bef059eced167ceab6e6d17d627e294/fa400.ttf",
+        "MD5": "4b6a9b7c20913279a3ad3dd9c96e155b"
+      },
+      "fabrand.ttf": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/2bef059eced167ceab6e6d17d627e294/fabrand.ttf",
+        "MD5": "0fddee1cdea7325809a89084f38510cb"
+      },
+      "fasolid.ttf": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/2bef059eced167ceab6e6d17d627e294/fasolid.ttf",
+        "MD5": "dffd9504fcb1894620fa41c700172994"
+      },
+      "TFTReborn.dll": {
+        "Download": "https://github.com/sbyt3/TFTReborn/raw/master/2bef059eced167ceab6e6d17d627e294/TFTReborn.dll",
+        "MD5": "ff8d98a12a8bd875ae7dee3d49542965"
+      }
+    }
+  },
   "350a6a468b93b1c239a159141ed6e320": {
     "Files": {
       "champions/TFT5_Aatrox.png": {
